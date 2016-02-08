@@ -3,16 +3,19 @@
   "version": "0.0.1",
   "description": "A simple Maybe and Either library for Javascript",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "David Koontz",
+  "scripts":
+    { "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "author": "David Koontz, Kyle Smith",
   "license": "MIT",
-  "dependencies": {
-  },
+  "repository":
+    { "type": "git"
+    , "url": "https://github.com/dkoontz/maybejs.git"
+    },
+  "dependencies": {},
   "devDependencies": {},
-  "keywords": [
-    "maybe",
-    "either"
-  ]
+  "keywords":
+    [ "maybe"
+    , "either"
+    ]
 }
